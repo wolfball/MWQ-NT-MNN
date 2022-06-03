@@ -8,11 +8,11 @@ Members: Hongwei Tu, Han Yan, Jinghao Feng
 Run the following command for  baseline
 
 ```bash
-python main --cuda 0 --expname exp/baseline/
+python main.py --cuda 0 --expname exp/baseline/
 ```
 
 Run the following command for our MWQ-NT-MNN
 
 ```bash
-python main_improved --cuda 0 --expname exp/mwq_nt_mnn/
+python main_improved.py --cuda 0 --expname exp/mwq_nt_mnn/
 ```
