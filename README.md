@@ -3,6 +3,8 @@ SJTU 2021-2022-2 AI3610 Brain-Inspired Intelligence Final Project
 
 Members: Hongwei Tu, Han Yan, Jinghao Feng
 
+## Running commands
+
 Run the following command for  baseline
 
 ```bash
