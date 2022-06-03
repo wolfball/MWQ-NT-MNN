@@ -10,5 +10,5 @@ python main --cuda 0 --expname exp/baseline/
 Run the following command for our MWQ-NT-MNN
 
 ```bash
-python main_improved --cuda 0 --expname exp/baseline/
+python main_improved --cuda 0 --expname exp/mwq_nt_mnn/
 ```
