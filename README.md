@@ -40,4 +40,4 @@ python main_improved.py --cuda 0 --expname exp/mwq_nt_mnn/
 
 97.55% test acc when std=0.8,
 
-95.64% test acc when std=1.0
+95.64% test acc when std=1.0.
