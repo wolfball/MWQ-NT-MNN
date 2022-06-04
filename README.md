@@ -36,3 +36,8 @@ python main_improved.py --cuda 0 --expname exp/mwq_nt_mnn/
 
 ## Result Summary
 
+98.48% test acc when std=0.6,
+
+97.55% test acc when std=0.8,
+
+95.64% test acc when std=1.0
