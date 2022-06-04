@@ -168,7 +168,7 @@ def main():
     parser.add_argument('--grad_threshold', type=float, default=0.5,
                         help='Gradient clip threshold')
     parser.add_argument('--n_values', type=int, default=7,
-                        help='Gradient clip threshold')
+                        help='Maximum of quantized order')
     parser.add_argument('--expname', type=str, default='exp')
     parser.add_argument('--cuda', type=int, default=0, help='CUDA id')
     args = parser.parse_args()
