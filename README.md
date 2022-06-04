@@ -26,7 +26,7 @@ python main_improved.py --cuda 0 --expname exp/mwq_nt_mnn/
 --quantization_threshold 0.01  # quantization threshold
 --quantized_value 0.01  # quantized value
 --grad_threshold 0.5  # gradient clip threshold
---cuad 0  # cuda id for running
+--cuda 0  # cuda id for running
 --expname exp  # path to save
 --batch_size 64
 --epochs 14
